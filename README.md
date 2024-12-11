@@ -32,7 +32,9 @@ The **Password Validation Program** was created to:
 - Practiced structuring simple yet effective console applications.
 - Improved error handling and feedback mechanisms.
 
+## Screenshots
 
+![Home Page](ss4.png)
 
 ## Technologies Used
 - **C#**
